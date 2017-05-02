@@ -1,2 +1,4 @@
-# tei-workshop
-Teaching materials for TEI workshop 
+h2. TEI Workshop Materials 
+
+Info coming soon!
+
