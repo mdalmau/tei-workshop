@@ -1,4 +1,4 @@
-h2. TEI Workshop Materials 
+# TEI Workshop Materials 
 
 Info coming soon!
 
