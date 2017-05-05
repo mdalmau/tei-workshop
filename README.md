@@ -1,4 +1,13 @@
-# TEI Workshop Materials 
+# TEI Workshop for the ARL Digital Scholarship Institute  
 
-Info coming soon!
+## Prep Before the Workshop
+* link to short reading
+* download/setup XML editor
+
+## Workshop Materials
+* Links to Activities
+
+## Resources
+* List stuff
+
 
