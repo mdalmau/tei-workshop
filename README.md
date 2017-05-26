@@ -41,7 +41,7 @@
   3. File => New => TEI P5 
   4. Select All [TEI P5]
   5. Save file to your Desktop; name file: **jackanapes.xml**
-  * (Brief review Oxygen XML Editor and the TEI Schema)
+     * (Brief review Oxygen XML Editor and the TEI Schema)
   6. Begin encoding *all together;* Michelle will walkthrough the encoding with the class
 
 As back-up, you can download a TEI template to open in Oxygen for encoding:
@@ -54,13 +54,13 @@ Finished encoded sample for your review:
 * Part 1: Publish 2 pages encoded from *Jackanapes and the Brownies* (10 mins)
 
   1. Download TEI Boilerplate: https://github.com/GrantLS/TEI-Boilerplate
-    * Click on the green "Clone or download" button
-    * Select "Download Zip"
+     * Click on the green "Clone or download" button
+     * Select "Download Zip"
   2. Go to your Downloads folder and move "TEI-Boilerplate-master" folder to your Desktop
   3. Launch Oxygen XML Editor
   4. File => Open => **jackanapes.xml** (on your Desktop)
-  5. Copy and paste the following after ```<?xml version="1.0" encoding="UTF-8"?>```
-    * ```<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>```
+  5. Copy and paste the following after ```<?xml version="1.0" encoding="UTF-8"?>```:
+     * ```<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>```
   6. File => Save As and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
   7. Launch Firefox, Internet Explorer or Safari
   8. File => Open => and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
