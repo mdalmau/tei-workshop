@@ -45,7 +45,7 @@
   6. Begin encoding *all together;* Michelle will walkthrough the encoding with the class
 
 As back-up, you can download a TEI template to open in Oxygen for encoding:
-* https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_template.xml
+* https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_template.xml (Right-Click / CTRL-Click link and select "download file as." Download file to Desktop and follow step 5.) 
 
 Finished encoded sample for your review:
 * https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984.xml
@@ -59,8 +59,8 @@ Finished encoded sample for your review:
   2. Go to your Downloads folder and move "TEI-Boilerplate-master" folder to your Desktop
   3. Launch Oxygen XML Editor
   4. File => Open => **jackanapes.xml** (on your Desktop)
-  5. Copy and paste the following after ```xml <?xml version="1.0" encoding="UTF-8"?>:
-    * <?xml-stylesheet type="text/xsl" href="teibp.xsl"?>```
+  5. Copy and paste the following after ```<?xml version="1.0" encoding="UTF-8"?>```
+    * ```<?xml-stylesheet type="text/xsl" href="teibp.xsl"?>```
   6. File => Save As and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
   7. Launch Firefox, Internet Explorer or Safari
   8. File => Open => and navigate to Desktop to the "TEI-Boilerplate-master/dist/content" folder
@@ -68,10 +68,10 @@ Finished encoded sample for your review:
   10. Ta-da! You have "published" the TEI encoding you completed in Activity 3!!
     
 As back-up, you can download a TEI-Boilerplate-ready XML file and then follow steps 6-10: 
-https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984.xml
+https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984.xml (Right-Click / CTRL-Click link and select "download file as." Follow steps 6-10.) 
 
 * Part 2: Discussion: Compare two online publications of the same text (20 mins)
-  * To see the whole book, *Jackanapes and the Brownies,* encoded and rendered in TEI Boilerplate, download the following file and then follow steps 6-10 above: https://github.com/mdalmau/tei-workshop-arl/blob/master/activity4_jackanapes_VAB6984.xml
+  * To see the whole book, *Jackanapes and the Brownies,* encoded and rendered in TEI Boilerplate, download the following file and then follow steps 6-10 above: https://github.com/mdalmau/tei-workshop-arl/blob/master/activity4_jackanapes_VAB6984.xml (Right-Click / CTRL-Click link and select "download file as." Follow steps 6-10.) 
   * Open a NEW Browser Window: http://purl.dlib.indiana.edu/iudl/vwwp/VAB6984
 
 ## Reference & Training Resources
