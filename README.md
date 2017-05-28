@@ -53,7 +53,7 @@ As back-up, you can download a TEI template to open in Oxygen for encoding:
 Finished encoded sample for your review:
 * https://iu.box.com/s/x43vanahil9ok4b3h89ohpmf0dmehsr0 (activity3_jackanapes_VAB6984.xml)
 
-### Activity 4 (30 minutes)
+### Activity 4 (25 minutes)
 * Part 1: Publish 2 pages encoded from *Jackanapes and the Brownies* (10 mins)
 
   1. Download TEI Boilerplate: https://github.com/GrantLS/TEI-Boilerplate
@@ -67,7 +67,7 @@ Finished encoded sample for your review:
   9. Select **activity4_jackanapes_VAB6984.xml**
   10. Ta-da! You have "published" a TEI/XML file using TEI Boilerplate! 
     
-* Part 2: Discussion: Compare two online publications of the same text (20 mins)
+* Part 2: Discussion: Compare two online publications of the same text (15 mins)
   * *Jackanapes and the Brownies,* encoded and rendered in TEI Boilerplate
   * Open a NEW Browser Window to see *Jackanapes and the Brownies* from VWWP: http://purl.dlib.indiana.edu/iudl/vwwp/VAB6984
 
