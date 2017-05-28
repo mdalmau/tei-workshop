@@ -19,7 +19,7 @@
 
 ## Workshop Materials
 
-* Link to presentation slides
+* [Presentation Slides](https://iu.box.com/s/bvbdsjqmx4cdcip320upvzp0i44ykth9) (PDF)
 
 ### Activity 1 (18 minutes)
 * Part 1: In groups, observe how the markup impacts the interface and functionality of each site; determine approaches to digital edition-making (8 mins)
