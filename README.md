@@ -4,7 +4,7 @@
 
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
-* See email sent by mdalmau@indiana.edu for the License Key 
+* See email sent by mdalmau@indiana.edu on May 27, 2017 for the License Key 
 * If you need help installing Oxygen, email me so that we can install at the Connors Center before June 8th. 
 
 ### Required Browsers
@@ -21,20 +21,23 @@
 
 * Link to presentation slides
 
-### Activity 1 
-* Part 1: In groups, observe how the markup impacts the interface and functionality of each site; determine approaches to digital edition-making (7 mins)
+### Activity 1 (18 minutes)
+* Part 1: In groups, observe how the markup impacts the interface and functionality of each site; determine approaches to digital edition-making (8 mins)
   * Chymistry of Isaac Newton: http://chymistry.org
+     * Browse for any Newton manuscript.
   * Victorian Women Writers Project: http://www.dlib.indiana.edu/collections/vwwp
-  * Indiana Authors and Their Books: http://www.dlib.indiana.edu/collections/inauthors  
-* Part 2: Re-convene as a whole and discuss observations and findings (8 mins)
+    * Search for *Jackanapes and the Brownies*.
+  * Indiana Authors and Their Books: http://www.dlib.indiana.edu/collections/inauthors
+    * Search for James Whitcomb Riley. 
+* Part 2: Re-convene as a whole and discuss observations and findings (10 mins)
 
-### Activity 2 
+### Activity 2 (13 minutes)
 * Part 1: Conduct document analysis on the the excerpt of *Jackanapes and the Brownies*; **annotate the handout**. (5 mins)
   * [Page 1 of handout](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity2_jackanapes_VAB6984_docanalysis.pdf)  contains sample questions to aid in document analysis.
-* Part 2: Discuss observations and findings (5 mins)
+* Part 2: Discuss observations and findings (8 mins)
 
-### Activity 3 
-* Encode 2 pages from *Jackanapes and the Brownies* (30 mins)
+### Activity 3 (35 minutes)
+* Encode 2 pages from *Jackanapes and the Brownies* (35 mins)
 
   1. [Open PDF of Chapter 1 excerpt](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984_encoding.pdf) for copying and pasting text  
   2. Launch Oxygen XML Editor 
@@ -45,10 +48,10 @@
   6. Begin encoding *all together;* Michelle will walkthrough the encoding with the class
 
 As back-up, you can download a TEI template to open in Oxygen for encoding:
-* https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_template.xml (Right-Click / CTRL-Click link and select "download file as." Download file to Desktop and follow step 5.) 
+* https://iu.box.com/s/ex2uruwr9iqc6bhbc6rm4lsx382i43r8 (activity3_template.xml) 
 
 Finished encoded sample for your review:
-* https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984.xml
+* https://iu.box.com/s/x43vanahil9ok4b3h89ohpmf0dmehsr0 (activity3_jackanapes_VAB6984.xml)
 
 ### Activity 4 
 * Part 1: Publish 2 pages encoded from *Jackanapes and the Brownies* (10 mins)
