@@ -92,6 +92,14 @@ Finished encoded sample (for your review):
   9. Select **jackanapes.xml**
   10. Ta-da! You have "published" the TEI encoding you completed in Activity 3!!
 
+## Learning Goals 
+
+Participants will:
+* understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
+* gain familiarity with the XML and TEI; learn about core TEI features (i.e., basics of TEI encoding)
+* review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
+* explore publishing options for TEI-encoded documents; recognize the pros and cons for each
+
 ## Reference & Training Resources
 
 ### General Intros to Markup, XML and TEI
@@ -102,7 +110,7 @@ Finished encoded sample (for your review):
 ### TEI
 * [TEI Guidelines](http://www.tei-c.org/release/doc/tei-p5-doc/en/html/)
 * [TEI-L Mailing List](https://listserv.brown.edu/archives/cgi-bin/wa?SUBED1=tei-l&A=1)
-* [Best Practices for TEI in Libraries] (http://purl.org/TEI/teiinlibraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
+* [Best Practices for TEI in Libraries](http://purl.org/TEI/teiinlibraries): a guide for mass digitization, automated workflows, and promotion of interoperability with XML using the TEI
 * [Women Writers Project (WWP) Training Resources](https://www.wwp.northeastern.edu/outreach/resources/index.html)
 * [TEI by Example](http://teibyexample.org/)
 * [TEI Boilerplate Workshop and Sample Exercises](http://dcl.slis.indiana.edu/teibpws/)
