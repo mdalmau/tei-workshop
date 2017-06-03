@@ -109,5 +109,8 @@ Finished encoded sample (for your review):
 ### Document Analysis 
 * [WWP Document Analysis Worksheet](https://www.wwp.northeastern.edu/outreach/seminars/_current/handouts/document_analysis.xhtml)
 
-
+## Contact
+* Michelle Dalmau, Head of Digital Collections Services, Indiana University Bloomington Libraries
+* Email: mdalmau@indiana.edu
+* Twitter: @mdalmau
 
