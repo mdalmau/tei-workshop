@@ -4,7 +4,7 @@
 
 ### Download and install Oxygen XML Editor
 * http://www.oxygenxml.com/download.html
-  * Windows users, try downloading the 32-bit application 
+  * Windows users, **download the 32-bit application** 
 * See email sent by mdalmau@indiana.edu on May 27, 2017 for the License Key 
 * If you need help installing Oxygen, email me so that we can install at the Connors Center before June 8th. 
 
@@ -76,6 +76,7 @@ Finished encoded sample (for your review):
 ### Activity 5 (On Your Own)
 
 * Part 1: Publish 2 pages **you** encoded from *Jackanapes and the Brownies* 
+*You might need to finish encoding **jackanapes.xml** from Activity 3. The file needs to be valid (green box in Oxygen). 
 
   1. Download TEI Boilerplate: https://github.com/GrantLS/TEI-Boilerplate
      * Click on the green "Clone or download" button
