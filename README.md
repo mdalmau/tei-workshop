@@ -21,6 +21,11 @@
 ## Workshop Materials
 
 * [Presentation Slides](https://iu.box.com/s/bvbdsjqmx4cdcip320upvzp0i44ykth9) (PDF)
+* [Activity 1](activity1.md)
+* [Activity 2](activity2.md)
+* [Activity 3](activity3.md)
+* [Activity 4](activity4.md)
+* [Activity 5)(activity5.md): Publishing with TEI Boilerplate; optional exercise that can be completed post-workshop. 
 
 ### Activity 1 
 * Part 1: In groups, observe how the markup impacts the interface and functionality of each site; determine approaches to digital edition-making 
