@@ -34,7 +34,7 @@ Participants will:
 * understand use cases for text encoding; recognize why libraries are especially well-situated to support text encoding
 * gain familiarity with the XML and TEI; learn about core TEI features (i.e., basics of TEI encoding)
 * review the workflow for TEI-encoding; learn about the various stages with special emphasis on the importance of document analysis
-* explore publishing options for TEI-encoded documents; recognize the pros and cons for each
+* explore publishing options for TEI-encoded documents; identify pros and cons for each
 
 ## Reference & Training Resources
 
