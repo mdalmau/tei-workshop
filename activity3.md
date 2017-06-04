@@ -2,10 +2,16 @@
 
 * Encode 2 pages from *Jackanapes and the Brownies.* 
 
-  1. [Open PDF of Chapter 1 excerpt](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984_encoding.pdf) for copying and pasting text  
+  1. [Open PDF of Chapter 1 excerpt](https://github.com/mdalmau/tei-workshop-arl/blob/master/activity3_jackanapes_VAB6984_encoding.pdf) for copying and pasting text (open in new tab or window)
+      1. Click "Download" (top-right) to download the PDF
+      2. Open PDF
+      
   2. Launch Oxygen XML Editor 
+  
   3. File => New => TEI P5 
+  
   4. Select All [TEI P5]
+  
   5. Save file to your Desktop; name file: **jackanapes.xml**
   
      * (Brief review Oxygen XML Editor and the TEI Schema)
